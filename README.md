@@ -2,44 +2,44 @@
 
 ### 🚀 Data Scientist & AI Researcher focusing on LLMs and Cognitive AI
 
-📍 New York, NY  
-📧 [haitongzhu@gmail.com](mailto:haitongzhu@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/haitong-zhul)
+[cite_start]📍 New York, NY [cite: 10, 16]
+[cite_start]📧 [haitongzhu@gmail.com](mailto:haitongzhu@gmail.com) [cite: 2]
+[cite_start]🔗 [LinkedIn](https://linkedin.com/in/haitong-zhul) [cite: 3]
 
 ---
 
 ### About Me 🌐
-Blending a strong statistical background with machine learning expertise, I transform complex data into impactful AI solutions. Currently pursuing my **M.S. in Data Science at NYU**, I am passionate about **Large Language Models (LLMs)**, **Multi-agent Systems**, and the intersection of **Cognitive Science and Artificial Intelligence**. 
+Blending a strong statistical background with machine learning expertise, I transform complex data into impactful AI solutions. [cite_start]Currently pursuing my **M.S. in Data Science at NYU**[cite: 5, 6, 11], I am passionate about **Large Language Models (LLMs)**, **Multi-agent Systems**, and the intersection of **Cognitive Science and Artificial Intelligence**. 
 
-With a dual foundation in **Statistics and Psychology** from UC Davis, I bring a unique analytical perspective to modeling human-like reasoning and behavior in AI systems.
+[cite_start]With a dual foundation in **Statistics and Psychology** from UC Davis[cite: 7, 8, 13], I bring a unique analytical perspective to modeling human-like reasoning and behavior in AI systems.
 
 ---
 
 ### Professional Highlights 🌟
-* **AI Research Intern** - Routed AI Inc., New York (Sep 2025 - Present)
-  * Built multi-agent outreach systems using LangChain and optimized LLM routing strategies.
-* **Machine Learning Engineer Intern** - Kuaishou Technology (Kling AI), Beijing (May 2025 - Aug 2025)
-  * Developed large-scale video quality filtering pipelines processing terabyte-scale data.
-* **Data Scientist Intern** - EchoPlus AI LLC, Boulder (Aug 2025 - Nov 2025)
-  * Applied K-Means clustering for customer segmentation and built churn prediction models.
-* **Data Analyst Intern** - iQIYI, Beijing (May 2024 - Aug 2024)
-  * Conducted intent analysis on 1.6M+ child-AI dialogues and optimized recommendation strategies via A/B testing.
+* [cite_start]**AI Research Intern** - Routed AI Inc., New York (Sep 2025 - Present) [cite: 14, 15, 17]
+  * [cite_start]Built multi-agent outreach systems using LangChain and optimized LLM routing strategies[cite: 18, 19].
+* [cite_start]**Machine Learning Engineer Intern** - Kuaishou Technology (Kling AI), Beijing (May 2025 - Aug 2025) [cite: 28, 29, 30]
+  * [cite_start]Developed large-scale video quality filtering pipelines processing terabyte-scale data[cite: 31].
+* [cite_start]**Data Scientist Intern** - EchoPlus AI LLC, Boulder (Aug 2025 - Nov 2025) [cite: 21, 22, 24]
+  * [cite_start]Applied K-Means clustering for customer segmentation and built churn prediction models[cite: 26, 27].
+* [cite_start]**Data Analyst Intern** - iQIYI, Beijing (May 2024 - Aug 2024) [cite: 33, 34, 36]
+  * [cite_start]Conducted intent analysis on 1.6M+ child-AI dialogues and optimized recommendation strategies via A/B testing[cite: 39, 40].
 
 ---
 
 ### Tech Toolbox 🛠️
-* **Programming:** Python (NumPy, Pandas, scikit-learn, PyTorch), SQL (Snowflake, Hive, MySQL), R, MATLAB
-* **AI & Machine Learning:** LLMs (LangChain, LlamaIndex), Reinforcement Learning, NLP, Predictive Modeling
-* **Data & Analytics:** ETL Pipelines, Feature Engineering, A/B Testing, Data Visualization (Tableau, Power BI)
+* [cite_start]**Programming:** Python (NumPy, Pandas, scikit-learn, PyTorch), SQL (Snowflake, Hive, MySQL), R, MATLAB [cite: 49]
+* [cite_start]**AI & Machine Learning:** LLMs (LangChain, LlamaIndex), Reinforcement Learning, NLP, Predictive Modeling [cite: 50]
+* [cite_start]**Data & Analytics:** ETL Pipelines, Feature Engineering, A/B Testing, Data Visualization (Tableau, Power BI) [cite: 51]
 * **Specialties:** Financial Data Analysis, EEG/ERP Data Processing, Linear Mixed-Effects Models (LME/GLMM)
 
 ---
 
 ### Education 🎓
-* **M.S. in Data Science** – New York University (Expected May 2026)
-  * GPA: 3.83/4.00
-* **B.S. in Statistics (DS Track) & B.A. in Psychology** – UC Davis (2020 - 2023)
-  * GPA: 3.86/4.00
+* [cite_start]**M.S. in Data Science** – New York University (Expected May 2026) [cite: 5, 6, 11]
+  * [cite_start]GPA: 3.83/4.00 [cite: 6]
+* [cite_start]**B.S. in Statistics (DS Track) & B.A. in Psychology** – UC Davis (2020 - 2023) [cite: 7, 8, 13]
+  * [cite_start]GPA: 3.86/4.00 [cite: 8]
 
 ---
 
@@ -48,6 +48,15 @@ With a dual foundation in **Statistics and Psychology** from UC Davis, I bring a
   * Investigated neural mechanisms of vision, attention, and language prediction.
   * Preprocessed **15GB+ EEG data** and developed high-dimensional analysis pipelines in R and Python.
 * **Conference Presentation:** Co-authored and presented an ERP research poster on bilingual language processing at **SNL 2023**, Marseille, France.
+
+---
+
+### Beyond Coding ⚡
+When I'm not training models or analyzing data, you can find me:
+* 🏐 **On the Court:** I'm an avid volleyball player (just like my avatar!).
+* 🎬 **Watching Anime:** Always down for a good series.
+* 🏃‍♂️ **Staying Active:** Whether it's swimming or a long run.
+* 🐶 **Animal Lover:** Huge fan of all animals, especially dogs!
 
 ---
 
