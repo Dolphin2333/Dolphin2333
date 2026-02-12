@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Haitong (Skyler) Zhu!
+# 👋 Hello, I'm Haitong Zhu!
 
 ### 🚀 Data Scientist & AI Researcher focusing on LLMs and Cognitive AI
 
